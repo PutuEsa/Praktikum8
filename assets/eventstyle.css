@@ -1,0 +1,49 @@
+@font-face{
+    font-family: invasion;
+    src: url("font/invasion.ttf")
+}
+
+.ob{
+    background-color: white;
+}
+
+p{
+    font-size: 25px;
+    font-style: normal; color: black
+}
+
+#link{
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+#produk{
+    width: 400px;
+    height: 200px;
+}
+
+h1{
+
+    text-align: center;
+    font-family: 'invasion';
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60000, 0 0 40px #e60000, 0 0 50px #e60000, 0 0 60px #e60073, 0 0 70px #e60073;
+    
+        text-shadow: 0 0 20px #fff, 0 0 30px #ff4d4d, 0 0 40px #ff4d4d, 0 0 50px #ff4d4d, 0 0 60px #ff4d4d, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+}
+.box{
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 24px 6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 24px 6px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 24px 6px rgba(0,0,0,0.75);
+    margin-top: 50px;
+    color: white;
+    padding-bottom: 30px;
+}
